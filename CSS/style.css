@@ -56,3 +56,13 @@ a:hover {
 .button {
   margin-top: 20px;
 }
+
+.breaks {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text {
+  margin-top: 20px;
+}
