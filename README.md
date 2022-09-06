@@ -1,1 +1,1 @@
-# FE22-html-mp1-berna-maloku
+Berna Maloku - Miniprojekt 1
