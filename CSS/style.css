@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+  color: rgb(220, 73, 183);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+}
+q {
+  border: rgb(115, 29, 72) 2px solid;
+}
+
+h3 {
+  color: rgb(103, 30, 91);
+  font-size: larger;
+}
+
+body {
+  background-color: pink;
+}
+* {
+  text-align: center;
+  text-overflow: ellipsis;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.blocktext {
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+a:hover {
+  background-color: white;
+}
+
+.navlinks {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.mellanrum {
+  margin-top: 100px;
+}
+
+.space {
+  padding-top: 80px;
+}
+
+.button {
+  margin-top: 20px;
+}
